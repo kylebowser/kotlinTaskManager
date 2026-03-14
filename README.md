@@ -7,21 +7,17 @@ The purpose of this program was to give myself a practice program for my learnin
 
 # Development Environment
 
-Build in Intellij IDE for ease of use and function. This takes a lot of tools and pulls them all into one place making for an easier programing and publishing experiance.
+Built in Intellij IDE for ease of use and function. This takes a lot of tools and pulls them all into one place making for an easier programing and publishing experiance.
 
 This program was written in Kotlin.
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
 
 - (https://www.youtube.com/watch?v=iYrgWO2oibY&t=11s) -- very basic, good intro so you have some foundation
 - (https://app.pluralsight.com/ilx/video-courses/fundamentals-kotlin/course-overview) -- in depth course, does cost money but good resource if paid for
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Add numbers to the remove option so that the user can see what number they should enter to remove a task
+- Add more to the task element such as a point system to each task, like a priority
+- Organize the tasks based on their priority score so that higher priority tasks appear at the top of the list
